@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @librariangie
-- 👀 I’m interested in web development, apps, institutional repositories, and academic libraries.
-- 🌱 I’m currently learning JavaScript and the MERN stack.
+- 👀 I’m interested in web development, apps, institutional repositories, and academic libraries. I completed Colt Steele's Udemy course The Web Development Bootcamp 2022 in August 2022.
+- 🌱 I’m currently learning JavaScript/the MERN stack.
 - 💞️ I’m looking to collaborate on ... not quite ready to collaborate but will discuss doggos.
 - 📫 How to reach me: a.neelysardon@gmail.com
 
