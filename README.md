@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @librariangie
 - 👀 I’m interested in web development, apps, institutional repositories, and academic libraries.
 - 🌱 I’m currently learning JavaScript and the MERN stack.
-- 💞️ I’m looking to collaborate on ... not quite ready - still learning!
+- 💞️ I’m looking to collaborate on ... not quite ready to collaborate but will discuss doggos.
 - 📫 How to reach me: a.neelysardon@gmail.com
 
 <!---
